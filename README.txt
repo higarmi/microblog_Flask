@@ -1,0 +1,1 @@
+This package covers the development of a blog. The development was done using Flask and Python. 
